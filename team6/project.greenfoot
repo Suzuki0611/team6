@@ -1,12 +1,16 @@
 #Greenfoot project file
+<<<<<<< HEAD
 class.MyWorld.image=brick.jpg
 class.hacchiman.image=bee.png
 class.huga.image=man.png
+=======
+class.aiueo.image=turtle.png
+>>>>>>> 7c7a4d4611ec701a0c2f5b34ba42957266c497f5
 editor.fx.0.height=0
 editor.fx.0.width=0
 editor.fx.0.x=0
 editor.fx.0.y=0
-height=585
+height=580
 package.numDependencies=0
 package.numTargets=3
 project.charset=UTF-8
@@ -38,7 +42,11 @@ target2.width=80
 target2.x=0
 target2.y=0
 target3.height=50
+<<<<<<< HEAD
 target3.name=MyWorld
+=======
+target3.name=aiueo
+>>>>>>> 7c7a4d4611ec701a0c2f5b34ba42957266c497f5
 target3.showInterface=false
 target3.type=ClassTarget
 target3.width=80
@@ -47,5 +55,10 @@ target3.y=0
 version=3.0.0
 width=825
 world.lastInstantiated=MyWorld
+<<<<<<< HEAD
 xPosition=597
 yPosition=281
+=======
+xPosition=971
+yPosition=116
+>>>>>>> 7c7a4d4611ec701a0c2f5b34ba42957266c497f5
