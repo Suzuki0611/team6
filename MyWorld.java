@@ -17,7 +17,8 @@ public class MyWorld extends World
     {   
         // Create a new world with 600x400 cells with a cell size of 1x1 pixels.
         super(600, 400, 1); 
-        addObject( new kon(), 300, 332 );
+        addObject( new atari(), 0, 300 );//箱の中の当たり判定
+        addObject( new kon(), 300, 332 );//コンベア
         addObject( new kasi1(), 600, 300 );
         addObject( new hako(), 0, 300 );
     }
