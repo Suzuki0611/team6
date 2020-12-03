@@ -16,8 +16,7 @@ public class kasi1 extends Actor
     {
         //getWorld().addObject( new kasi1(), 50, 50 );
         setRotation(0);
-        move(-1);
-        //はしについたら消す
+        move(-1);  
         // Add your action code here.
     }    
 }
